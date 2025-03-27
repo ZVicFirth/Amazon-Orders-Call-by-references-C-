@@ -1,11 +1,5 @@
 /*
 Name:  Zachary Firth                               
-Z# : Z23543282
-Course : Foundations of Computer Science(COP3014)
-Professor : Dr.Lofton Bullard
-Due Date : 2/9/22 Due Time : 11:59pm
-Total Points : 20
-Assignment #3: amazon_purchase_recs.cpp
 Description : To declare and initialize variables from an outside file (purchase_dataAssignment4.txt)
 by using call-by-reference functions and printing the inputs and also the outputs based on these inputs*/
 //Include the following
